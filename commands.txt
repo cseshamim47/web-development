@@ -1,0 +1,12 @@
+npx create-next-app@latest
+npm install @supabase/supabase-js @supabase/auth-helpers-nextjs @supabase/ssr
+
+
+# notes-app
+npm add -D prettier prettier-plugin-tailwindcss
+npm install react-hot-toast
+npx shadcn-ui@latest init
+npx shadcn-ui@latest add alert-dialog button dialog dropdown-menu input textarea
+npm i drizzle-orm postgres dotenv
+npm i -D drizzle-kit
+npm install @supabase/ssr @supabase/supabase-js
